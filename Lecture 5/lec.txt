@@ -1,0 +1,13 @@
+C:\Users\HP\Anaconda3\envs\workshop\etc\conda\activate.d// chnage totensorflow
+theano tenserflow CNKT all working under keras( all for a single api)
+compile in keras( intermediate)
+backend (tenserflow)
+each iteration is called a epoch
+
+optimizer (rmsprop, adam, sgd)
+what does it do?? model charecter update schedule kuntarv jonne ki valo kaj korbe state of the art
+different optimizer use kore best optimizer use kora  holo grid search
+grid search is also  init (glorot-uniform, normal uniform)
+activation function( laste layer e sigmoid use kora better ar normally use kora hoy relu , also softmax used sometimes)
+existin ekta model nie change kori amra kisu layer barai komai and also epoch batch use kora 100, 200 ei gulao grid search
+ 

@@ -1,0 +1,10 @@
+('chadni', 'posor') 1
+('posor', 'rate') 1
+('rate', 'jege') 1
+('jege', 'aschi') 1
+('aschi', 'ami') 1
+('ami', 'chayahIn') 1
+('chayahIn', 'EkoTi') 1
+('EkoTi', 'rekhay') 1
+('rekhay', 'Ese') 1
+('Ese', 'dacboRiyeche') 1

@@ -1,0 +1,10 @@
+svm.SVC()
+svm.SVR()
+rbf(gassuian process karnels)
+GAussianprocessclassifier
+randomforestclassifier
+mlp classifier(neural network) adabost
+mpl.toolkits.mplot3d import Axes3D
+ensabmled classifier (multiple classifier weighted distribution)
+QuadracticDiscriminiteAnalysis()
+sklearn.preprocessing import standardScaler
